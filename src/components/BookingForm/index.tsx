@@ -84,7 +84,7 @@ const BookingForm: FC<BookingFormProps> = ({
           {formik.touched.occasion && formik.errors.occasion}
         </FormMessageError>
         
-        <input data-testid="submit-btn" type="submit" value="Make Your reservasion" />
+        <input data-testid="submit-btn" type="submit" value="Make Your Reservation" />
       </Form>
     </Container>
   )

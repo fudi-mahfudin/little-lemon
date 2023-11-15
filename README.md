@@ -9,11 +9,18 @@ This project was developed with the following technologies:
 - Typescript
 - Vite
 - Styled Components
+- Styled Icons
 - Formik
 - Yup
-- Jest
+- Vitest
 - React Testing Library
 
 ## 📜 License
 
 This project is under the MIT license.
+
+## 🤝 Credits
+
+Thanks to:
+
+- [@leonardojacomussi](https://github.com/leonardojacomussi/little-lemon) for inspiring project.
